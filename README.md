@@ -1,5 +1,5 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: NAVEEN KUMAR S </h3>
+<h3>Name: SANIYA G </h3>
 <h3>Register Number: 212223240147</h3>
 <H3>Aim:</H3>
 <p>
